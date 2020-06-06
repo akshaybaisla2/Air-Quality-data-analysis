@@ -1,6 +1,7 @@
 # Air Quality data analysis
 
-Data
+# Data
+
 This data is a cleaner version of the Historical Daily Ambient Air Quality Data released by the Ministry of Environment and Forests and Central Pollution Control Board of India under the National Data Sharing and Accessibility Policy (NDSAP).
 The dataset contains the following features :
 1.	stn_code : Station code. A code is given to each station that recorded the data.
